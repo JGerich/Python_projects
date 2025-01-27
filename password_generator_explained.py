@@ -1,4 +1,6 @@
-# Simple Password Generator in Python
+# A simple Python project that generates secure, random 16-character passwords using letters, 
+# numbers, and symbols. It showcases basic use of the random and string libraries for practical 
+#applications:
 
 #import the random and string modules to use them to generate random values:
 import random
